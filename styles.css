@@ -1,0 +1,21 @@
+.title {
+  color: black;
+  text-align: center;
+}
+
+body {
+  background-color: #b0b0b0;
+}
+
+.titleBox {
+  border: solid;
+  border-radius: 13px;
+  background-color: white;
+}
+
+.userInput {
+  border: solid;
+  border-radius: 13px;
+  background-color: white;
+  height: 200px;
+}
